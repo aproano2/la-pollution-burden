@@ -41,6 +41,9 @@ def clean_data(file_loc, county_list=None, impute=None):
     pctl_cols = df.columns[df.columns.str.contains('pctl|percentile')]
     df.drop(pctl_cols, axis=1, inplace=True)
 
+    # Remove rows with zip code 61
+    df = df[df.zip != 61]
+    
     # Impute the data with the column mean or just delete the rows
     if impute:
         if impute == 'mean':
