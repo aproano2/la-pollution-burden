@@ -74,7 +74,7 @@ for this analysis.
 
 - Impute numeric missing values.
 
--Get dummy columns to handle categorical data.
+- Get dummy columns to handle categorical data.
 
 
 ### 4. Data Modeling
