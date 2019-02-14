@@ -27,8 +27,12 @@ metro and its population.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1FL3R-M6FCh59L4mwaEM4UnM1-ATXDnUu" width="640" height="480"></iframe>
 
-The Greater Los Angeles Area is one od the fastest-growing regions in
+The Greater Los Angeles Area is one of the fastest-growing regions in
 the US, that contains five counties in Southern California: Los
-Angeles, Orange, Riverside, San Bernardino, and Ventura. Based on the OEHHA dataset, its total population is 17,876,950. Of the total, 55% people are in Los Angeles county, 17% of people in Orange County, 12% of people in Riverside, 11% of people  in San Bernardino, and 5% in the county of Ventura.
+Angeles, Orange, Riverside, San Bernardino, and Ventura. Based on the
+OEHHA dataset, its total population is 17,876,950. Of the total, 55%
+people are in Los Angeles county, 17% of people in Orange County, 12%
+of people in Riverside, 11% of people in San Bernardino, and 5% in the
+county of Ventura.
 
-![population distribution](images/county_population..png)
+![population distribution](images/county_population.png)
