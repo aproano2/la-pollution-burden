@@ -1,4 +1,4 @@
-# Enviromental Analysis of the Greater Los Angeles Area
+# Environmental Analysis of the Greater Los Angeles Area
 
 The goal of this project is to understand the pollution and its impact
 on the communities located in the Greater Los Angeles Area. The
@@ -41,10 +41,10 @@ To guide the project, the following questions were considered:
 
 - What are the main factors that contribute to the pollution burden in Los Angeles?
 - What are the less polluted areas in Los Angeles?
-- What are the areas with the lowest unemployment?
+- What are the areas with the lowest poverty?
 - Is there a correlation between socioeconomic factors and pollution burden?
 - How well can we predict the pollution burden?
-- How well can we predict cardiovascular diseases?
+- How well can we predict poverty?
 
 ### 2. Data Understanding
 
